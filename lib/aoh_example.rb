@@ -20,11 +20,11 @@ end
 
 def literal_aoh
 
-literal_aoh= [
-  DON_G.sorted
-  JOELLE_VD.sorted
-  PAT_M.sorted
-  KATE_G.sorted
+literal_aoh = [
+  DON_G.sorted,
+  JOELLE_VD.sorted,
+  PAT_M.sorted,
+  KATE_G.sorted,
   BRUCE_G.sorted
 ]
 end
