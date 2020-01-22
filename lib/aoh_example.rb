@@ -19,8 +19,14 @@ assembled_aoh = [
 end
 
 def literal_aoh
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # held in the constants
+
+literal_aoh= [
+  DON_G.sorted
+  JOELLE_VD.sorted
+  PAT_M.sorted
+  KATE_G.sorted
+  BRUCE_G.sorted
+]
 end
 
 def aoh_lookup(aoh, row, key)
