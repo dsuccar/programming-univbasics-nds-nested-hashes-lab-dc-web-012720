@@ -21,11 +21,11 @@ end
 def literal_aoh
 
 literal_aoh = [
-  DON_G.sorted,
-  JOELLE_VD.sorted,
-  PAT_M.sorted,
-  KATE_G.sorted,
-  BRUCE_G.sorted
+  DON_G.sort,
+  JOELLE_VD.sort,
+  PAT_M.sort,
+  KATE_G.sort,
+  BRUCE_G.sort
 ]
 end
 
